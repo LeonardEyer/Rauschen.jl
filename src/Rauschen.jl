@@ -1,0 +1,3 @@
+module Rauschen
+    # Empty
+end
