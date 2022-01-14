@@ -4,5 +4,10 @@ authors = ["Leonard Kilian Eyer <leonard.eyer@fastmail.de>"]
 version = "0.1.0"
 
 [deps]
+DSP = "717857b8-e6f2-59f4-9121-6e50c889abd2"
+DataStructures = "864edb3b-99cc-5e75-8d2d-829cb0a9cfe8"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
 Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
 Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+WAV = "8149f6b0-98f6-5db9-b78f-408fbbb8ef88"
+Waveforms = "cb13b1c6-351e-5134-b3ad-d6a530956a82"
